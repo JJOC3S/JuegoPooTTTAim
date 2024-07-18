@@ -31,12 +31,10 @@ El programa muestra una ventana principal (`MainForm`) con dos secciones princip
 - **Botón de Reinicio**: Permite al usuario reiniciar ambos juegos desde cero.
 - **Imágenes Visuales**: Utiliza imágenes (como "Ganador" y "Flecha") para comunicar visualmente el resultado del juego y las acciones disponibles para el usuario.
 
-## Instalación y Uso
 
-Para usar "AimpeCausa", sigue estos pasos:
+1. Clona el repositorio desde GitHub
+2. Abre la solución AimpeCausa.sln en Visual Studio.
 
-1. Clona el repositorio desde GitHub:
-   ```bash
-   git clone https://github.com/tu_usuario/aimpecausa.git
+3. Compila y ejecuta el proyecto.
 
 ![image](https://github.com/user-attachments/assets/41cdaae1-bd48-4c79-968a-c43557f0552b)
