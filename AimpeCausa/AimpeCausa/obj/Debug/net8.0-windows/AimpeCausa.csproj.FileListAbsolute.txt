@@ -1,0 +1,16 @@
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.Form1.resources
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.csproj.GenerateResource.cache
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.AssemblyInfo.cs
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\bin\Debug\net8.0-windows\AimpeCausa.exe
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\bin\Debug\net8.0-windows\AimpeCausa.deps.json
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\bin\Debug\net8.0-windows\AimpeCausa.runtimeconfig.json
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\bin\Debug\net8.0-windows\AimpeCausa.dll
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\bin\Debug\net8.0-windows\AimpeCausa.pdb
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.dll
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\refint\AimpeCausa.dll
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.pdb
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\AimpeCausa.genruntimeconfig.cache
+C:\Users\A\source\repos\AimpeCausa\AimpeCausa\obj\Debug\net8.0-windows\ref\AimpeCausa.dll
